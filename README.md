@@ -10,4 +10,4 @@ Quazzu Materialize Theme
 <img src="screen/3.png" width="100%">
 
 <hr>
-<img src="screen/4.png" width="100%">
+<img src="screen/4.jpg" width="100%">
