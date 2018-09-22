@@ -1,0 +1,148 @@
+body {
+    font-family: 'Molengo', sans-serif;
+}
+
+#main-header {
+    background: url("/src/img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    min-height: 600px;
+
+    .fab {
+        font-size: 15px;
+    }
+
+    .active-link {
+        font-weight: bold;
+        color: #9c27b0;
+    }
+}
+
+.main-header {
+    min-height: 290px !important;
+}
+
+.showcase {
+    h1 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    a {
+        margin-top: 30px;
+    }
+
+    margin-top: 120px;
+}
+
+.showcase1 {
+    h1 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    a {
+        margin-top: 30px;
+    }
+
+    margin-top: 50px;
+}
+
+#card-section {
+    margin-top: 30px;
+}
+
+#about {
+    img {
+        border-radius: 5px;
+    }
+
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+#developers {
+    background: url("/src/img/code.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#podcast {
+    background: url("/src/img/circuit.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.developer-wrapper {
+    background: #9b27b057;
+    padding: 25px;
+}
+
+#language {
+    padding: 30px 0;
+
+    h3 {
+        padding-bottom: 20px;
+    }
+}
+
+.podcast-btn {
+    margin-top: 30px;
+}
+
+#podcast {
+    p {
+        margin: 0;
+    }
+}
+
+#carousel-section {
+    margin-top: 30px;
+
+    p {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .carousel {
+        height: 350px !important;
+    }
+
+    .btn-m {
+        margin-top: 30px;
+    }
+}
+
+.tabs .indicator {
+    background-color: #9c27b0 !important;
+}
+
+.tabs {
+    margin-top: 10px;
+}
+
+#solutions {
+    padding: 20px 0;
+}
+
+#feature {
+    padding: 20px 0 40px 0;
+
+    .m4 {
+        margin-top: 30px;
+    }
+}
+
+#signup {
+    padding: 30px 0;
+}
